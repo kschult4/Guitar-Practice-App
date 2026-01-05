@@ -85,6 +85,7 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 1. **Rep complete:** Timer hits 0:00
 1. **Break:** Fixed 10-second pause before next rep
 1. **Next rep:** If more reps remain, return to step 1 (potentially at faster BPM)
+1. **Exercise complete:** After final rep, automatically return to Daily Routine list
 
 #### BPM Progression Rules
 
