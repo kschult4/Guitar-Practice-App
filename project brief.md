@@ -226,12 +226,16 @@ App
     - BPM range (e.g., "60-80 BPM" or "80 BPM" if constant)
     - Completion indicator (checkmark if completed today)
 - **`/exercise/:exerciseId`** - Exercise Detail Page
-  - Exercise name and full description (with tablature support)
-  - Tips section
-  - Metronome controls and BPM indicator
-  - Timer with rep counter (e.g., “Rep 2 of 3”)
-  - Start/Pause controls
-  - Back button to routine view
+  - **Persistent Control Bar** (always visible, likely floating/fixed):
+    - Timer with countdown (primary focus)
+    - Rep counter (e.g., "Rep 2 of 3")
+    - Metronome visual (four dots with emphasized beat 1)
+    - Current BPM display
+    - Control buttons (Start/Pause, Stop, Restart, Back to List)
+  - **Scrollable Exercise Content:**
+    - Exercise name
+    - Full description (with tablature support via markdown)
+    - Tips section
 
 ### State Management
 
