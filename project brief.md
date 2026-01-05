@@ -176,6 +176,13 @@ Each exercise is defined with the following fields:
 - **Markdown Rendering:** React markdown library (for exercise descriptions/tabs)
 - **PWA Support:** Vite PWA plugin
 
+### Target Device & Orientation
+
+- **Device:** Latest iPad model only
+- **Orientation:** Landscape (locked)
+- **Screen Optimization:** No responsive breakpoints needed - optimized for single device/orientation
+- **Touch Targets:** Follow iOS Human Interface Guidelines (minimum 44x44pt)
+
 ### Component Structure
 
 ```
