@@ -89,6 +89,7 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 #### BPM Progression Rules
 
 - **All exercises use metronome** (always in 4/4 time)
+- **Metronome sound:** Wood block click with emphasized first beat (LOUD-soft-soft-soft pattern)
 - **Some exercises increase tempo** each rep (exercise defines start BPM and increment)
 - **Some exercises stay constant** (set `bpmIncrement: 0`)
 
@@ -359,11 +360,8 @@ When Phase 1 proves valuable (30+ days of use):
 
 ## Open Questions / To Be Decided
 
-1. **Exact break duration between reps** - 10 seconds? 15 seconds?
-1. **Exercise content** - Need to define 14-21 actual exercises
 1. **Cloudflare Tunnel setup** - Do we need external access, or local-only?
-1. **Container hostname** - “web-server” or something more specific?
-1. **Metronome sound** - Click? Beep? Configurable?
+1. **Container hostname** - "web-server" or something more specific?
 
 -----
 
