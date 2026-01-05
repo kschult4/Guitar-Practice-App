@@ -246,6 +246,24 @@ App
   - Metronome state (running/stopped)
   - Current BPM
 
+### Error Handling (Phase 1)
+
+**Approach:** Minimal error handling - assume happy path
+
+**Rationale:**
+- Single-user app with controlled data
+- Exercise data validated at development time
+- PWA ensures offline functionality
+- Focus on core functionality over edge cases
+
+**Phase 1 scope:**
+- No error UI for missing/corrupted data (assume valid routines.json)
+- No browser compatibility checks (target device is known)
+- Graceful degradation if Wake Lock API unavailable (feature just won't work)
+- Visual metronome always available, audio requires user gesture (Web Audio API standard behavior)
+
+**Phase 2 considerations:** Add error handling based on real-world usage issues
+
 -----
 
 ## Data Storage (Phase 1)
