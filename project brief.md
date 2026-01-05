@@ -118,6 +118,7 @@ Each exercise is defined with the following fields:
 
 ```json
 {
+  "id": "chromatic-runs",           // unique identifier for routing
   "name": "Chromatic Runs",
   "description": "Markdown-formatted description. Can include code blocks for tabs:\n\n```\ne|----5-7-8-\nB|--5-6-8---\n```",
   "tips": "Additional practice tips and focus points",
@@ -137,6 +138,7 @@ Each exercise is defined with the following fields:
     "description": "Today's focus is developing picking speed while maintaining accuracy",
     "exercises": [
       {
+        "id": "exercise-1",
         "name": "Exercise 1",
         "description": "...",
         "tips": "...",
@@ -146,6 +148,7 @@ Each exercise is defined with the following fields:
         "bpmIncrement": 10
       },
       {
+        "id": "exercise-2",
         "name": "Exercise 2",
         "description": "...",
         "tips": "...",
