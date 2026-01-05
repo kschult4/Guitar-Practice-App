@@ -207,7 +207,7 @@ App
 ├── Router
 ├── DailyRoutine (Home Page)
 │   ├── FocusHeader (shows today's focus + description)
-│   └── ExerciseList (clickable exercise cards)
+│   └── ExerciseList (selectable list items)
 │
 └── ExerciseDetail (Detail Page)
     ├── ExerciseInfo (name, description with markdown, tips)
@@ -218,9 +218,13 @@ App
 ### Pages/Routes
 
 - **`/`** - Daily Routine View
-  - Displays current day’s focus
-  - Lists 2-3 exercises as clickable cards
+  - Displays current day's focus
   - Shows day of week indicator
+  - Lists exercises as selectable items showing:
+    - Exercise name
+    - Total duration (e.g., "12 min" for 3 reps × 4 min)
+    - BPM range (e.g., "60-80 BPM" or "80 BPM" if constant)
+    - Completion indicator (checkmark if completed today)
 - **`/exercise/:exerciseId`** - Exercise Detail Page
   - Exercise name and full description (with tablature support)
   - Tips section
