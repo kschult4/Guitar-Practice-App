@@ -80,7 +80,7 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 
 #### Exercise Flow
 
-1. **Count-in:** 2 bars of metronome (gives moment to internalize tempo)
+1. **Count-in:** 2 bars of metronome with visual dots display and wood block audio
 1. **Timer starts:** After count-in, timer counts down from exercise duration
 1. **Rep complete:** Timer hits 0:00
 1. **Break:** Fixed 10-second countdown displayed (metronome visual continues but audio is muted)
