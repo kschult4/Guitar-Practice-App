@@ -64,6 +64,8 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 
 ### Practice Focus Areas (7-Day Rotation)
 
+The app displays routines based on the **calendar day of the week** (device local timezone). If you skip a day, the app moves to the next day's routine - it doesn't wait for you.
+
 1. **Monday:** Synchronization & Speed
 1. **Tuesday:** String Skipping & Crossing
 1. **Wednesday:** Picking Control & Articulation
@@ -71,8 +73,6 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 1. **Friday:** Fretboard Accuracy & Position Shifts
 1. **Saturday:** Rhythm & Timing
 1. **Sunday:** Chord Transitions & Musical Flow
-
-*Note: Actual exercises for each focus to be defined during development*
 
 -----
 
