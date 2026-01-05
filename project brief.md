@@ -176,6 +176,8 @@ Each exercise is defined with the following fields:
 - **Frontend Framework:** React + Vite
 - **Styling:** Tailwind CSS
 - **Metronome:** Tone.js (audio generation and timing)
+  - Audio context initialized on first exercise start (user gesture required for Web Audio API)
+  - Visual metronome always works, audio requires user interaction
 - **Timer:** Custom React hooks (countdown logic)
 - **Markdown Rendering:** React markdown library (for exercise descriptions/tabs)
 - **PWA Support:** Vite PWA plugin
