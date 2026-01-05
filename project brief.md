@@ -310,9 +310,9 @@ App
 
 ### Infrastructure
 
-**Container:** New LXC on Proxmox  
-**IP Address:** 192.168.1.17  
-**Hostname:** web-server (or similar)  
+**Container:** New LXC on Proxmox
+**IP Address:** 192.168.1.17
+**Hostname:** web-server
 **OS:** Debian 12
 
 **Resources:**
@@ -323,14 +323,14 @@ App
 
 ### Web Server
 
-**Software:** Nginx  
-**Purpose:** Serve static built React app  
+**Software:** Nginx
+**Purpose:** Serve static built React app
 **Configuration:** Simple static file serving, no PHP/dynamic content needed
 
 ### Access
 
-**Local:** http://192.168.1.17  
-**External (if needed):** Cloudflare Tunnel (to be configured later)  
+**Local:** http://192.168.1.17 (home network only)
+**External:** Not required for Phase 1
 **PWA Installation:** Add to iPad home screen via Safari
 
 -----
@@ -437,13 +437,6 @@ When Phase 1 proves valuable (30+ days of use):
 - Exercise data structure (just more of it)
 - Component architecture
 - Deployment infrastructure
-
------
-
-## Open Questions / To Be Decided
-
-1. **Cloudflare Tunnel setup** - Do we need external access, or local-only?
-1. **Container hostname** - "web-server" or something more specific?
 
 -----
 
