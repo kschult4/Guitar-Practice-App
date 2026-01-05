@@ -64,13 +64,13 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 
 ### Practice Focus Areas (7-Day Rotation)
 
-1. **Monday:** Speed building
-1. **Tuesday:** String skipping
-1. **Wednesday:** Alternate picking
-1. **Thursday:** Finger stretching
-1. **Friday:** Finger strength
-1. **Saturday:** Fret accuracy
-1. **Sunday:** Chord transitions
+1. **Monday:** Synchronization & Speed
+1. **Tuesday:** String Skipping & Crossing
+1. **Wednesday:** Picking Control & Articulation
+1. **Thursday:** Finger Mobility & Stretching
+1. **Friday:** Fretboard Accuracy & Position Shifts
+1. **Saturday:** Rhythm & Timing
+1. **Sunday:** Chord Transitions & Musical Flow
 
 *Note: Actual exercises for each focus to be defined during development*
 
