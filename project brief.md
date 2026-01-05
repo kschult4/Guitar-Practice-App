@@ -102,6 +102,7 @@ During exercise execution (including count-in), the following controls are avail
 
 - **All exercises use metronome** (always in 4/4 time)
 - **Metronome sound:** Wood block click with emphasized first beat (LOUD-soft-soft-soft pattern)
+- **Metronome visual:** Four dots in a row representing beats 1-4, with beat 1 (downbeat) slightly bigger/brighter. Active beat lights up in sequence.
 - **Some exercises increase tempo** each rep (exercise defines start BPM and increment)
 - **Some exercises stay constant** (set `bpmIncrement: 0`)
 
