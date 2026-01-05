@@ -183,6 +183,16 @@ Each exercise is defined with the following fields:
 - **Screen Optimization:** No responsive breakpoints needed - optimized for single device/orientation
 - **Touch Targets:** Follow iOS Human Interface Guidelines (minimum 44x44pt)
 
+### PWA Configuration
+
+- **App Name:** Daily Warmup
+- **Short Name:** Daily Warmup
+- **Description:** Daily guitar warmup routine and practice tracker
+- **Theme Color:** TBD (to be chosen during UI design)
+- **Background Color:** TBD (to be chosen during UI design)
+- **App Icon:** Placeholder icon for Phase 1
+- **Display Mode:** Standalone (hides Safari UI)
+
 ### Component Structure
 
 ```
