@@ -83,7 +83,7 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 1. **Count-in:** 2 bars of metronome (gives moment to internalize tempo)
 1. **Timer starts:** After count-in, timer counts down from exercise duration
 1. **Rep complete:** Timer hits 0:00
-1. **Break:** Fixed pause (10-15 seconds - TBD) before next rep
+1. **Break:** Fixed 10-second pause before next rep
 1. **Next rep:** If more reps remain, return to step 1 (potentially at faster BPM)
 
 #### BPM Progression Rules
