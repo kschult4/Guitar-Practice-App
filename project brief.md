@@ -195,6 +195,7 @@ Each exercise is defined with the following fields:
 - **Background Color:** TBD (to be chosen during UI design)
 - **App Icon:** Placeholder icon for Phase 1
 - **Display Mode:** Standalone (hides Safari UI)
+- **Wake Lock:** Enabled during exercises to prevent screen from sleeping (active during count-in, running, and break states)
 
 ### Component Structure
 
