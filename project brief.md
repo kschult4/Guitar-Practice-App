@@ -231,6 +231,7 @@ App
 - **App-level:**
   - `routines.json` data (loaded once on mount)
   - Current day calculation
+  - Completed exercises for today (localStorage, purged at midnight)
 - **ExerciseDetail-level:**
   - Current rep number (1-based)
   - Timer state (idle/running/paused/break)
@@ -241,6 +242,8 @@ App
 -----
 
 ## Data Storage (Phase 1)
+
+### Exercise Data
 
 **Approach:** Static JSON file in the app
 
@@ -253,7 +256,28 @@ App
 - Easy to edit and version control
 - Works offline (PWA requirement)
 
-**Phase 2 Migration:** Move to Firebase when adding practice tracking
+### Same-Day Completion Tracking
+
+**Approach:** Browser localStorage
+
+**Data Stored:**
+- List of completed exercise IDs for current calendar day
+- Timestamp of last completion
+
+**Behavior:**
+- Mark exercises as complete when all reps are finished
+- Show visual indicator (checkmark) on Daily Routine view for completed exercises
+- Persist between same-day sessions (app close/reopen)
+- Automatically purge all completion data at midnight (device timezone)
+- Fresh start each calendar day
+
+**Rationale:**
+- Provides useful within-day feedback without complex tracking
+- No backend required
+- Supports Phase 1 goal of validating daily usage
+- Clean slate each day encourages fresh practice approach
+
+**Phase 2 Migration:** Move to Firebase for persistent history when adding practice tracking
 
 -----
 
@@ -288,10 +312,10 @@ App
 
 ## Features NOT in Phase 1
 
-To maintain “simplicity until demonstrated need” philosophy:
+To maintain "simplicity until demonstrated need" philosophy:
 
-- ❌ Practice history/logging
-- ❌ Progress tracking
+- ❌ Practice history/logging (multi-day tracking)
+- ❌ Progress tracking across days
 - ❌ AI recommendations or exercise generation
 - ❌ Exercise modification in-app
 - ❌ Multiple user profiles
@@ -299,7 +323,7 @@ To maintain “simplicity until demonstrated need” philosophy:
 - ❌ Advanced analytics
 - ❌ Calendar view of past routines
 - ❌ Manual day override (always shows today)
-- ❌ Completion checkboxes (no persistence)
+- ✅ **INCLUDED:** Same-day completion tracking (purged at midnight)
 
 These features deferred to Phase 2/3 based on actual usage patterns.
 
