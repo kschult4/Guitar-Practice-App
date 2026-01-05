@@ -1,0 +1,190 @@
+{
+  "monday": {
+    "focus": "Synchronization & Speed",
+    "description": "Build clean coordination between your fretting and picking hands. Speed comes from accuracy and relaxation, not force.",
+    "exercises": [
+      {
+        "id": "chromatic-1234-walk",
+        "name": "1-2-3-4 Chromatic Walk",
+        "description": "A foundational coordination exercise that synchronizes both hands while moving evenly across the fretboard.\n\n```\ne|----------------5-6-7-8-\nB|------------5-6-7-8-----\nG|--------5-6-7-8---------\nD|----5-6-7-8-------------\nA|-5-6-7-8----------------\nE|-5-6-7-8----------------\n```",
+        "tips": "Keep all fingers close to the fretboard. If notes blur together, slow down immediately.",
+        "duration": 240,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "speed-bursts",
+        "name": "Speed Bursts",
+        "description": "Alternate between slow, controlled playing and brief faster bursts using a simple chromatic pattern. The goal is to experience speed without tension.",
+        "tips": "Fast sections should feel controlled, not frantic. Reduce tempo if tension appears.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+
+  "tuesday": {
+    "focus": "String Skipping & Crossing",
+    "description": "Improve accuracy and control when moving across non-adjacent strings.",
+    "exercises": [
+      {
+        "id": "adjacent-string-skips",
+        "name": "Adjacent String Skips",
+        "description": "Practice skipping over one string at a time to build accuracy.\n\n```\ne|------------------------\nB|------------------------\nG|----------5-----7------\nD|------5-----7----------\nA|--5-----7--------------\nE|5-----7----------------\n```",
+        "tips": "Avoid accidentally hitting skipped strings. Keep movements small and deliberate.",
+        "duration": 240,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "wide-string-skips",
+        "name": "Wide String Skips",
+        "description": "Increase difficulty by skipping over multiple strings in a single motion.",
+        "tips": "Accuracy first. Listen carefully for unwanted string noise.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+
+  "wednesday": {
+    "focus": "Picking Control & Articulation",
+    "description": "Develop consistency and control in how each note is articulated.",
+    "exercises": [
+      {
+        "id": "single-string-control",
+        "name": "Single-String Control",
+        "description": "Isolate articulation by removing string changes.\n\n```\nE|-5-5-5-5-6-6-6-6-7-7-7-7-\n```",
+        "tips": "All notes should sound even in volume and tone.",
+        "duration": 240,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "accent-control",
+        "name": "Accent Control",
+        "description": "Play groups of four notes, emphasizing only the first note of each group.",
+        "tips": "Accents should be deliberate. Don’t rush when emphasizing notes.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 65,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+
+  "thursday": {
+    "focus": "Finger Mobility & Stretching",
+    "description": "Improve reach, independence, and comfort in the fretting hand.",
+    "exercises": [
+      {
+        "id": "spider-exercise",
+        "name": "The Spider",
+        "description": "Alternate between adjacent strings in a zig-zag finger pattern to build independence.\n\n```\nE|------------------------\nB|------------------------\nG|----------7-----8------\nD|------6-----7----------\nA|--5-----6--------------\nE|5-----7----------------\n```",
+        "tips": "Stay relaxed. This exercise should never feel painful.",
+        "duration": 240,
+        "reps": 2,
+        "startBPM": 50,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "four-finger-stretch",
+        "name": "Four-Finger Linear Stretch",
+        "description": "Stretch across frets on a single string using all four fingers (e.g., 5–7–8–10).",
+        "tips": "Only stretch as far as comfortable. Avoid forcing reach.",
+        "duration": 180,
+        "reps": 2,
+        "startBPM": 45,
+        "bpmIncrement": 0
+      }
+    ]
+  },
+
+  "friday": {
+    "focus": "Fretboard Accuracy & Position Shifts",
+    "description": "Train clean position shifts and confident note placement.",
+    "exercises": [
+      {
+        "id": "shift-and-land",
+        "name": "Shift and Land",
+        "description": "Shift between distant frets and land directly on the target.\n\n```\nA|-5-----9-----5-----9-\n```",
+        "tips": "Avoid sliding unless intentional. Land cleanly and in time.",
+        "duration": 240,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "target-note-jumps",
+        "name": "Target Note Jumps",
+        "description": "Alternate between two far-apart frets (e.g., 5 and 12) on the same string.",
+        "tips": "Visualize the target before moving. Avoid micro-adjustments.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+
+  "saturday": {
+    "focus": "Rhythm & Timing",
+    "description": "Develop internal time and rhythmic consistency.",
+    "exercises": [
+      {
+        "id": "subdivision-switching",
+        "name": "Subdivision Switching",
+        "description": "Play quarter notes, then eighths, then triplets while keeping the same tempo.",
+        "tips": "Count internally. The metronome tempo does not change.",
+        "duration": 240,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 0
+      },
+      {
+        "id": "note-length-control",
+        "name": "Note Length Control",
+        "description": "Alternate between long, sustained notes and short, muted notes.",
+        "tips": "Pay attention to clean note endings.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 0
+      }
+    ]
+  },
+
+  "sunday": {
+    "focus": "Chord Transitions & Musical Flow",
+    "description": "Practice smooth chord changes and continuous musical movement.",
+    "exercises": [
+      {
+        "id": "common-chord-changes",
+        "name": "Common Chord Changes",
+        "description": "Switch slowly and evenly between two common chords (e.g., G to C).",
+        "tips": "Prepare fingers early and keep transitions in time.",
+        "duration": 240,
+        "reps": 2,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "continuous-progressions",
+        "name": "Continuous Progressions",
+        "description": "Loop a 3–4 chord progression continuously without stopping.",
+        "tips": "Focus on flow rather than perfection.",
+        "duration": 300,
+        "reps": 1,
+        "startBPM": 65,
+        "bpmIncrement": 0
+      }
+    ]
+  }
+}
