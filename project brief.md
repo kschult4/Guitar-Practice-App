@@ -87,6 +87,17 @@ A focused, daily guitar warmup app designed to provide structured practice routi
 1. **Next rep:** If more reps remain, return to step 1 (potentially at faster BPM)
 1. **Exercise complete:** After final rep, automatically return to Daily Routine list
 
+#### Exercise Controls
+
+During exercise execution, the following controls are available:
+
+- **Pause/Resume:** Pauses timer and stops metronome, resume from same point
+- **Stop:** Stops timer and metronome, returns to beginning of current rep
+- **Restart:** Returns to rep 1 of the exercise
+- **Back to List:** Exits to Daily Routine view (progress is lost, no confirmation prompt)
+
+**Note:** Both Pause and Stop will halt the metronome.
+
 #### BPM Progression Rules
 
 - **All exercises use metronome** (always in 4/4 time)
