@@ -1,0 +1,184 @@
+{
+  "monday": {
+    "focus": "Speed Building",
+    "description": "Build clean coordination between your fretting and picking hands. Speed comes from accuracy and relaxation, not force.",
+    "exercises": [
+      {
+        "id": "ascending-chromatic-motif",
+        "name": "Ascending Chromatic Motif",
+        "description": "Play as continuous 16th notes across the strings. Focus on even attack and relaxed hands.\n\n```\ne|----------------5-6-7-8-|\nB|------------5-6-7-8-----|\nG|--------5-6-7-8---------|\nD|----5-6-7-8-------------|\nA|-5-6-7-8----------------|\nE|------------------------|\n```",
+        "tips": "No tension in forearms. Let speed come from efficiency, not force.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "asymmetrical-chromatic-grouping",
+        "name": "Asymmetrical Chromatic Grouping",
+        "description": "Chromatic motion grouped in 3s over 4/4. Play continuous 16th notes. Accents cycle every 3 notes.\n\n```\ne|----------------5-6-7-|\nB|------------5-6-------|\nG|--------5-6-----------|\nD|----5-6---------------|\nA|-5-6------------------|\nE|----------------------|\n```",
+        "tips": "Strict alternate picking. Keep accents consistent even as they shift against the beat.",
+        "duration": 150,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 10
+      }
+    ]
+  },
+  "tuesday": {
+    "focus": "String Skipping",
+    "description": "Improve accuracy and control when moving across non-adjacent strings.",
+    "exercises": [
+      {
+        "id": "skipped-triad-shapes",
+        "name": "Skipped Triad Shapes",
+        "description": "Outline harmony while forcing accurate string jumps.\n\n```\ne|---------7---------|\nB|-----8-------8-----|\nG|-9---------------9-|\nD|-------------------|\nA|-------------------|\nE|-------------------|\n```",
+        "tips": "Pick deliberately with clean silence between strings. Avoid raking.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "inside-outside-skip-alternation",
+        "name": "Inside–Outside Skip Alternation",
+        "description": "Same note pattern, but picking approach alternates every rep.\n\nRep 1: inside picking\nRep 2: outside picking\nRep 3: alternate freely but consciously\n\n```\ne|---------7-----------|\nB|-----8-------8-------|\nG|-9---------------9---|\n```",
+        "tips": "Picking approach matters more than speed. No sweep shortcuts.",
+        "duration": 150,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+  "wednesday": {
+    "focus": "Alternate Picking",
+    "description": "Develop strict alternate picking technique with challenging string crossings.",
+    "exercises": [
+      {
+        "id": "scalar-alternate-line",
+        "name": "Scalar Alternate Line",
+        "description": "Strict alternate picking only.\n\n```\ne|----------------5-7-8-|\nB|------------5-7------|\nG|------4-5-7----------|\nD|-5-7-----------------|\nA|---------------------|\nE|---------------------|\n```",
+        "tips": "Down-up consistency matters more than speed. No economy picking.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "string-crossing-displacement-run",
+        "name": "String-Crossing Displacement Run",
+        "description": "Odd note groupings that cross strings mid-group. Group notes in sets of 5. Accents move each bar.\n\n```\ne|-------------5-7-|\nB|---------5-7-----|\nG|-----4-5---------|\nD|-5-7-------------|\n```",
+        "tips": "Strict alternate picking. Do not correct crossings with economy/sweeps.",
+        "duration": 150,
+        "reps": 3,
+        "startBPM": 65,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+  "thursday": {
+    "focus": "Finger Stretching",
+    "description": "Improve reach, independence, and comfort in the fretting hand. Always prioritize comfort over stretch.",
+    "exercises": [
+      {
+        "id": "four-fret-expansion",
+        "name": "Four-Fret Expansion",
+        "description": "Slow, controlled movement across wide spans.\n\n```\ne|----------------5-8-|\nB|------------5-8-----|\nG|--------5-8---------|\nD|----5-8-------------|\nA|-5-8----------------|\nE|--------------------|\n```",
+        "tips": "No pain, ever. Keep thumb relaxed behind the neck.",
+        "duration": 180,
+        "reps": 2,
+        "startBPM": 50,
+        "bpmIncrement": 0
+      },
+      {
+        "id": "held-anchor-stretch-line",
+        "name": "Held-Anchor Stretch Line",
+        "description": "One finger stays planted while others stretch away. Index finger remains anchored on the lowest note.\n\n```\ne|----------------|\nB|---------6-9----|\nG|------5---------|\nD|-4--------------|\n```",
+        "tips": "Anchor finger never lifts. Slow, deliberate motion only.",
+        "duration": 150,
+        "reps": 2,
+        "startBPM": 50,
+        "bpmIncrement": 0
+      }
+    ]
+  },
+  "friday": {
+    "focus": "Finger Strength",
+    "description": "Build fretting hand strength and articulation through legato techniques.",
+    "exercises": [
+      {
+        "id": "legato-ladder",
+        "name": "Hammer-On / Pull-Off Ladder",
+        "description": "Minimal picking. Let fretting hand do the work.\n\n```\ne|----------------5h7p5-|\nB|------------5h7-------|\nG|--------4h6-----------|\nD|-5h7------------------|\n```",
+        "tips": "Aim for clear articulation without collapsing fingers.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "offset-legato-accents",
+        "name": "Offset Legato Accents",
+        "description": "Legato line with accents that shift independently of fingering. Accent every 4th note regardless of finger pattern.\n\n```\ne|----------------5h7h8p7p5-|\nB|------------5h7-----------|\nG|--------4h6---------------|\nD|-5h7----------------------|\n```",
+        "tips": "No extra pick attack. Accents come from fretting hand only.",
+        "duration": 150,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+  "saturday": {
+    "focus": "Fret Accuracy",
+    "description": "Train clean position shifts and confident note placement across the fretboard.",
+    "exercises": [
+      {
+        "id": "position-jump-motifs",
+        "name": "Position Jump Motifs",
+        "description": "Jump cleanly between positions. Visualize the target fret before moving.\n\n```\ne|------5-7---------10-12-|\nB|--6-8-------------------|\nG|------------------------|\n```",
+        "tips": "Land decisively. Avoid sliding into position.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 65,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "blind-position-targeting",
+        "name": "Blind Position Targeting",
+        "description": "Jump between positions without visual confirmation. Look away after the first position. Land cleanly on the target.\n\n```\ne|------5-----------12-|\nB|--6-8----------------|\n```",
+        "tips": "No slides into position. Land directly on the target note.",
+        "duration": 150,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      }
+    ]
+  },
+  "sunday": {
+    "focus": "Chord Transitions",
+    "description": "Practice smooth chord changes and continuous musical movement.",
+    "exercises": [
+      {
+        "id": "triad-flow",
+        "name": "Triad Flow",
+        "description": "Move shapes smoothly with no gaps.\n\n```\ne|-5---7---8-|\nB|-5---7---8-|\nG|-5---7---8-|\n```",
+        "tips": "Lift fingers minimally. Let shapes blur into each other without rushing.",
+        "duration": 180,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "voice-led-triad-transitions",
+        "name": "Voice-Led Triad Transitions",
+        "description": "One voice moves stepwise while others remain fixed. Only one finger moves per transition.\n\n```\ne|-5---5---6-|\nB|-5---6---6-|\nG|-5---5---5-|\n```",
+        "tips": "No full chord lifts. Smooth voice leading prioritized over speed.",
+        "duration": 150,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 5
+      }
+    ]
+  }
+}

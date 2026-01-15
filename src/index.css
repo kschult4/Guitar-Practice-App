@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Bebas Neue', sans-serif;
+  --font-body: 'Source Sans 3', sans-serif;
+
+  --color-canvas: #0A0A0A;
+  --color-surface: #171717;
+  --color-surface-raised: #262626;
+  --color-text: #FAFAFA;
+  --color-text-muted: #737373;
+  --color-border: #404040;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-canvas);
+  color: var(--color-text);
+}
