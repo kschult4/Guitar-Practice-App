@@ -54,7 +54,7 @@ function DescriptionRenderer({ text }: { text: string }) {
           return (
             <pre
               key={index}
-              className="font-mono text-sm leading-relaxed p-4 rounded-xl bg-[--color-surface]/60 border border-[--color-border] text-[--color-text-secondary] overflow-x-auto"
+              className="font-mono text-base leading-relaxed text-[--color-text] whitespace-pre"
             >
               {code}
             </pre>
@@ -298,10 +298,10 @@ function ExerciseWorkspace({ exercise, accent, onComplete, onActiveChange }: Exe
 
           {/* Tips Section */}
           {exercise.tips && (
-            <div className="p-5 rounded-2xl bg-[--color-surface]/50 border border-[--color-border]">
-              <p className="text-label mb-2">Tips</p>
-              <p className="text-[--color-text-muted] leading-relaxed">
-                {exercise.tips}
+            <div className="px-4 py-3 rounded-xl bg-[--color-surface]/30 border border-[--color-border]/50">
+              <p className="text-sm text-[--color-text-subtle]">
+                <span className="font-semibold not-italic" style={{ color: accent }}>Tip: </span>
+                <span className="italic">{exercise.tips}</span>
               </p>
             </div>
           )}
