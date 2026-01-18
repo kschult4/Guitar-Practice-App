@@ -131,7 +131,7 @@
         "id": "accent-displacement-alternate",
         "name": "Accent Displacement Alternate Line",
         "description": "Accent every 3rd note.\n\n```\ne|--5-6-7-8-5-6-7-8-|\n   ^     ^     ^\n```",
-        "tips": "Accents don’t affect picking.",
+        "tips": "Accents don't affect picking.",
         "duration": 45,
         "reps": 3,
         "startBPM": 70,
