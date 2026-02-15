@@ -18,3 +18,23 @@ export interface DayRoutine {
 export type DayOfWeek = 'monday' | 'tuesday' | 'wednesday' | 'thursday' | 'friday' | 'saturday' | 'sunday'
 
 export type Routines = Record<DayOfWeek, DayRoutine>
+
+export interface ServiceEntry {
+  id: string
+  category: string
+  serviceName: string
+  contactInfo: string
+  apiAccessDetails: string
+  notes: string
+  assignedAgent: string
+  checkInFrequency: string
+}
+
+export type ServiceCategory =
+  | 'Travel'
+  | 'Health'
+  | 'Beauty / Wellness'
+  | 'Shopping'
+  | 'Finance'
+  | 'Daily Life'
+  | 'Special Occasions'

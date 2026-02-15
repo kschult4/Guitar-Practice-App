@@ -1,0 +1,242 @@
+[
+  {
+    "id": "travel-airlines",
+    "category": "Travel",
+    "serviceName": "Airlines (e.g., Delta, United)",
+    "contactInfo": "Website / phone",
+    "apiAccessDetails": "API keys, login credentials",
+    "notes": "Loyalty programs, seating preferences",
+    "assignedAgent": "Flight Agent",
+    "checkInFrequency": "Before trips"
+  },
+  {
+    "id": "travel-hotels",
+    "category": "Travel",
+    "serviceName": "Hotels (e.g., Marriott, Hilton)",
+    "contactInfo": "Website / phone",
+    "apiAccessDetails": "API keys, loyalty accounts",
+    "notes": "Room preferences, loyalty points",
+    "assignedAgent": "Travel Agent",
+    "checkInFrequency": "Before trips"
+  },
+  {
+    "id": "travel-car-rentals",
+    "category": "Travel",
+    "serviceName": "Car Rentals (e.g., Enterprise, Hertz)",
+    "contactInfo": "Website / phone",
+    "apiAccessDetails": "API / booking account",
+    "notes": "Preferred vehicle type, membership",
+    "assignedAgent": "Travel Agent",
+    "checkInFrequency": "Before trips"
+  },
+  {
+    "id": "travel-public-transport",
+    "category": "Travel",
+    "serviceName": "Public Transport / Rail",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "API / schedule access",
+    "notes": "Favorite routes, discounts",
+    "assignedAgent": "Travel Agent",
+    "checkInFrequency": "As needed"
+  },
+  {
+    "id": "health-primary-care",
+    "category": "Health",
+    "serviceName": "Primary Care Doctor",
+    "contactInfo": "Phone / portal",
+    "apiAccessDetails": "Portal login",
+    "notes": "Insurance info, visit history",
+    "assignedAgent": "Health Agent",
+    "checkInFrequency": "Quarterly / as needed"
+  },
+  {
+    "id": "health-dentist",
+    "category": "Health",
+    "serviceName": "Dentist / Orthodontist",
+    "contactInfo": "Phone / portal",
+    "apiAccessDetails": "Portal login",
+    "notes": "Preferred times, insurance",
+    "assignedAgent": "Health Agent",
+    "checkInFrequency": "Twice yearly / as needed"
+  },
+  {
+    "id": "health-pharmacy",
+    "category": "Health",
+    "serviceName": "Pharmacy",
+    "contactInfo": "Phone / website",
+    "apiAccessDetails": "Account login",
+    "notes": "Prescription tracking, refill preferences",
+    "assignedAgent": "Health Agent",
+    "checkInFrequency": "Monthly"
+  },
+  {
+    "id": "health-insurance",
+    "category": "Health",
+    "serviceName": "Insurance Provider",
+    "contactInfo": "Website / phone",
+    "apiAccessDetails": "Account login",
+    "notes": "Claims, coverage notes",
+    "assignedAgent": "Health Agent",
+    "checkInFrequency": "Quarterly"
+  },
+  {
+    "id": "beauty-hairdresser",
+    "category": "Beauty / Wellness",
+    "serviceName": "Hairdresser / Barber",
+    "contactInfo": "Phone / website",
+    "apiAccessDetails": "Booking login",
+    "notes": "Stylist preferences, notes",
+    "assignedAgent": "Beauty Agent",
+    "checkInFrequency": "Monthly / as needed"
+  },
+  {
+    "id": "beauty-spa",
+    "category": "Beauty / Wellness",
+    "serviceName": "Spa / Massage",
+    "contactInfo": "Phone / website",
+    "apiAccessDetails": "Booking login",
+    "notes": "Preferred times, memberships",
+    "assignedAgent": "Beauty Agent",
+    "checkInFrequency": "Monthly / as needed"
+  },
+  {
+    "id": "beauty-fitness",
+    "category": "Beauty / Wellness",
+    "serviceName": "Fitness / Pilates / Yoga",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Membership login",
+    "notes": "Class schedule, preferences",
+    "assignedAgent": "Wellness Agent",
+    "checkInFrequency": "Weekly"
+  },
+  {
+    "id": "shopping-grocery",
+    "category": "Shopping",
+    "serviceName": "Grocery Stores (local or delivery)",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Account login",
+    "notes": "Shopping list integration",
+    "assignedAgent": "Shopping Agent",
+    "checkInFrequency": "Weekly"
+  },
+  {
+    "id": "shopping-online-retailers",
+    "category": "Shopping",
+    "serviceName": "Online Retailers (Amazon, Best Buy, etc.)",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Account login",
+    "notes": "Wishlist, preferred shipping",
+    "assignedAgent": "Shopping Agent",
+    "checkInFrequency": "Monthly"
+  },
+  {
+    "id": "shopping-specialty",
+    "category": "Shopping",
+    "serviceName": "Specialty Stores (clothing, electronics, etc.)",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Account login",
+    "notes": "Alerts for deals",
+    "assignedAgent": "Shopping Agent",
+    "checkInFrequency": "As needed"
+  },
+  {
+    "id": "finance-bank",
+    "category": "Finance",
+    "serviceName": "Bank Accounts",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Login credentials",
+    "notes": "Checking, savings, alerts",
+    "assignedAgent": "Finance Agent",
+    "checkInFrequency": "Monthly"
+  },
+  {
+    "id": "finance-credit-cards",
+    "category": "Finance",
+    "serviceName": "Credit Cards",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Login credentials",
+    "notes": "Rewards tracking, payment schedule",
+    "assignedAgent": "Finance Agent",
+    "checkInFrequency": "Monthly"
+  },
+  {
+    "id": "finance-investments",
+    "category": "Finance",
+    "serviceName": "Investments",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Login credentials",
+    "notes": "Portfolio updates",
+    "assignedAgent": "Finance Agent",
+    "checkInFrequency": "Weekly / monthly"
+  },
+  {
+    "id": "finance-taxes",
+    "category": "Finance",
+    "serviceName": "Taxes / Accounting",
+    "contactInfo": "Website / email",
+    "apiAccessDetails": "Login credentials",
+    "notes": "Important dates, forms",
+    "assignedAgent": "Finance Agent",
+    "checkInFrequency": "Annually / quarterly"
+  },
+  {
+    "id": "daily-meal-kits",
+    "category": "Daily Life",
+    "serviceName": "Meal Kits / Food Delivery",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Account login",
+    "notes": "Delivery preferences, dietary notes",
+    "assignedAgent": "Lifestyle Agent",
+    "checkInFrequency": "Weekly"
+  },
+  {
+    "id": "daily-home-maintenance",
+    "category": "Daily Life",
+    "serviceName": "Home Maintenance / Repairs",
+    "contactInfo": "Phone / website",
+    "apiAccessDetails": "Contact info",
+    "notes": "Service history, preferred contractors",
+    "assignedAgent": "Lifestyle Agent",
+    "checkInFrequency": "As needed"
+  },
+  {
+    "id": "daily-utilities",
+    "category": "Daily Life",
+    "serviceName": "Utilities / Bills",
+    "contactInfo": "Website / app",
+    "apiAccessDetails": "Account login",
+    "notes": "Payment schedules, alerts",
+    "assignedAgent": "Lifestyle Agent",
+    "checkInFrequency": "Monthly"
+  },
+  {
+    "id": "occasions-birthday",
+    "category": "Special Occasions",
+    "serviceName": "Birthday / Anniversary Planning",
+    "contactInfo": "Calendar / websites",
+    "apiAccessDetails": "N/A",
+    "notes": "Gift ideas, reservations",
+    "assignedAgent": "Events Agent",
+    "checkInFrequency": "As needed"
+  },
+  {
+    "id": "occasions-restaurants",
+    "category": "Special Occasions",
+    "serviceName": "Restaurant Reservations",
+    "contactInfo": "OpenTable / websites",
+    "apiAccessDetails": "API keys / login",
+    "notes": "Preferences, favorite restaurants",
+    "assignedAgent": "Events Agent",
+    "checkInFrequency": "As needed"
+  },
+  {
+    "id": "occasions-event-tickets",
+    "category": "Special Occasions",
+    "serviceName": "Event Tickets",
+    "contactInfo": "Ticketmaster / websites",
+    "apiAccessDetails": "Account login",
+    "notes": "Alerts for shows, events",
+    "assignedAgent": "Events Agent",
+    "checkInFrequency": "As needed"
+  }
+]
