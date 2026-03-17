@@ -10,7 +10,7 @@
         "tips": "Keep both hands as relaxed as possible and monitor your forearms for unnecessary tension. Use the minimum amount of finger pressure required to sound each note cleanly. If tension appears, slow the tempo and rebuild accuracy before increasing speed.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 70,
+        "startBPM": 90,
         "bpmIncrement": 10
       },
       {
@@ -20,7 +20,7 @@
         "tips": "Maintain strict alternate picking even as the accents shift against the beat. Do not allow the accent pattern to alter your picking mechanics. Focus on rhythmic consistency rather than speed.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 70,
+        "startBPM": 90,
         "bpmIncrement": 10
       },
       {
@@ -30,7 +30,7 @@
         "tips": "Treat the fast notes as short, controlled bursts rather than sustained speed. Actively release tension immediately after each burst. The goal is to teach your hands how fast playing should feel without fatigue.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 65,
+        "startBPM": 75,
         "bpmIncrement": 5
       },
       {
@@ -40,7 +40,7 @@
         "tips": "Focus on even pick attack and consistent timing between notes. Because string crossings are removed, inefficiencies in your picking motion will be more obvious. Keep movements small and controlled.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 80,
+        "startBPM": 100,
         "bpmIncrement": 10
       }
     ]
@@ -57,7 +57,7 @@
         "tips": "Pick deliberately and avoid brushing adjacent strings. Ensure unused strings are muted at all times. Accuracy and clean silence are more important than tempo.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 60,
+        "startBPM": 70,
         "bpmIncrement": 5
       },
       {
@@ -67,7 +67,7 @@
         "tips": "Be consciously aware of whether each string change is inside or outside picking. Do not compensate with sweeping or economy picking. Keep the pick path intentional and consistent.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 60,
+        "startBPM": 70,
         "bpmIncrement": 5
       },
       {
@@ -77,7 +77,7 @@
         "tips": "Lightly mute the strings with your fretting hand so pitch is removed from the exercise. Listen closely for missed strings or unintended contact. This drill isolates picking accuracy without distraction.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 70,
+        "startBPM": 80,
         "bpmIncrement": 5
       },
       {
@@ -87,7 +87,7 @@
         "tips": "Move the pick deliberately between strings rather than relying on momentum. Prepare the next string crossing mentally before executing it. Keep the motion calm and controlled.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 65,
+        "startBPM": 75,
         "bpmIncrement": 5
       }
     ]
@@ -104,7 +104,7 @@
         "tips": "Maintain down-up consistency at all times, even when it feels inefficient. Avoid the temptation to use economy picking on string changes. Clarity and rhythmic precision are the primary goals.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 70,
+        "startBPM": 90,
         "bpmIncrement": 10
       },
       {
@@ -114,7 +114,7 @@
         "tips": "Allow mistakes to reveal weaknesses rather than correcting them with technique shortcuts. Keep the picking hand motion consistent across all groupings. Slow down if necessary to preserve form.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 65,
+        "startBPM": 75,
         "bpmIncrement": 5
       },
       {
@@ -124,7 +124,7 @@
         "tips": "Focus on how the pick escapes the string after each stroke. Keep the loop smooth and even, without accenting string changes unintentionally. Small motions are critical here.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 75,
+        "startBPM": 85,
         "bpmIncrement": 5
       },
       {
@@ -134,7 +134,7 @@
         "tips": "Separate rhythmic accents from picking mechanics. The pick should move identically on accented and unaccented notes. Accents come from controlled emphasis, not extra force.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 70,
+        "startBPM": 80,
         "bpmIncrement": 5
       }
     ]
@@ -198,7 +198,7 @@
         "tips": "Aim for equal volume between picked and legato notes. Use finger strength rather than extra pick attack. Keep unused fingers relaxed and close to the fretboard.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 60,
+        "startBPM": 70,
         "bpmIncrement": 5
       },
       {
@@ -208,7 +208,7 @@
         "tips": "Generate accents using finger pressure and timing, not picking. Maintain smooth legato motion even as accents move. Avoid tightening the hand to emphasize notes.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 60,
+        "startBPM": 70,
         "bpmIncrement": 5
       },
       {
@@ -218,7 +218,7 @@
         "tips": "Pull off with intention so each note rings clearly. Do not rely on gravity or finger collapse. This drill exposes and strengthens weaker fingers.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 55,
+        "startBPM": 65,
         "bpmIncrement": 5
       },
       {
@@ -228,7 +228,7 @@
         "tips": "Keep the held note completely stable while other fingers move. Avoid sympathetic finger motion. This drill builds true finger independence and control.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 55,
+        "startBPM": 65,
         "bpmIncrement": 5
       }
     ]
@@ -245,7 +245,7 @@
         "tips": "Visualize the target fret before moving your hand. Land directly on the note without sliding. Accuracy should feel decisive, not tentative.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 65,
+        "startBPM": 75,
         "bpmIncrement": 5
       },
       {
@@ -255,7 +255,7 @@
         "tips": "Trust spatial awareness rather than visual confirmation. Move confidently and commit to the landing. Avoid micro-adjustments after contact.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 60,
+        "startBPM": 70,
         "bpmIncrement": 5
       },
       {
@@ -265,7 +265,7 @@
         "tips": "Mentally map the octave shape before jumping. Keep the hand relaxed during the shift. Clean landings matter more than speed.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 60,
+        "startBPM": 70,
         "bpmIncrement": 5
       },
       {
@@ -275,7 +275,7 @@
         "tips": "Use the pause to clearly visualize the target position. Move only after you are confident in the landing. This trains intention rather than reaction.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 55,
+        "startBPM": 65,
         "bpmIncrement": 5
       }
     ]
@@ -292,7 +292,7 @@
         "tips": "Lift fingers only as much as necessary between shapes. Allow transitions to overlap slightly for smoothness. Avoid stopping the sound between chords.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 60,
+        "startBPM": 70,
         "bpmIncrement": 5
       },
       {
@@ -302,7 +302,7 @@
         "tips": "Focus your attention on the moving voice rather than the full chord shape. Keep stationary notes firmly in place. Smoothness is more important than tempo.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 55,
+        "startBPM": 65,
         "bpmIncrement": 5
       },
       {
@@ -312,7 +312,7 @@
         "tips": "Use the anchored finger as a physical reference point. Let the other fingers move efficiently around it. Avoid lifting the pivot finger unnecessarily.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 55,
+        "startBPM": 65,
         "bpmIncrement": 5
       },
       {
@@ -322,7 +322,7 @@
         "tips": "Stay relaxed even as the change is delayed. Keep the rhythm steady and controlled. This drill builds confidence during imperfect transitions.",
         "duration": 45,
         "reps": 3,
-        "startBPM": 50,
+        "startBPM": 60,
         "bpmIncrement": 5
       }
     ]

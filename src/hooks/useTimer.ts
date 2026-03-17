@@ -25,7 +25,7 @@ interface TimerReturn {
   restart: () => void   // restart from rep 1
 }
 
-const BREAK_DURATION = 15 // seconds
+const BREAK_DURATION = 8 // seconds
 const BEATS_PER_BAR = 4
 const COUNT_IN_BARS = 2
 const COUNT_IN_BEATS = BEATS_PER_BAR * COUNT_IN_BARS // 8 beats
