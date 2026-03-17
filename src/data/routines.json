@@ -42,6 +42,46 @@
         "reps": 3,
         "startBPM": 100,
         "bpmIncrement": 10
+      },
+      {
+        "id": "jazz-bebop-run",
+        "name": "Jazz: Bebop Chromatic Descent",
+        "description": "Smooth descending bebop line with chromatic passing tones.\n\n```\ne|-10-9-8-7-6-5-4-5-|\n```",
+        "tips": "Keep the chromatic tones passing and unaccented — imagine a saxophone phrasing this line. The resolution back up to fret 5 gives the phrase its bebop character. Aim for a legato, fluid quality rather than mechanical evenness.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "metal-pedal-tone-run",
+        "name": "Metal: Pedal Tone Scalar Burst",
+        "description": "Pedal tone alternating with ascending scale degrees.\n\n```\ne|-5-8-5-9-5-10-5-12-|\n```",
+        "tips": "The pedal (fret 5) should sound crisp and aggressive. Keep the picking motion tight — this is a precision drill common in thrash and progressive metal. Palm muting the pedal note adds a heavy, percussive quality.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 80,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "blues-pentatonic-box-run",
+        "name": "Blues: Minor Pentatonic Box Descent",
+        "description": "Classic 3-string blues box descent.\n\n```\ne|-8-5------|\nB|-----8-5--|\nG|--------7-|\n```",
+        "tips": "Aim for the fluid, vocal quality of BB King and SRV. Small, subtle variations in pick attack define blues phrasing — avoid mechanical evenness. Every note should feel like it has intention and expression.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 75,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "classical-ascending-sequence",
+        "name": "Classical: Ascending Thirds Sequence",
+        "description": "Diatonic third intervals ascending in sequence — Czerny inspired.\n\n```\ne|-5-8-7-10-8-12-10-13-|\n```",
+        "tips": "Every note must be identical in volume, timing, and tone — this is a classical finger equality drill. There is no room for accent irregularity. Keep your hand position neutral and fingers curved throughout the pattern.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 10
       }
     ]
   },
@@ -88,6 +128,46 @@
         "duration": 45,
         "reps": 3,
         "startBPM": 75,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "jazz-quartal-skip",
+        "name": "Jazz: Quartal String Skipping",
+        "description": "Perfect fourth intervals on alternating strings, skipping B string.\n\n```\ne|-5---7---9---|\nB|-------------|\nG|-9---11--13--|\n```",
+        "tips": "Quartal harmony (stacked 4ths) is a defining sound of modern jazz — McCoy Tyner, Coltrane. Focus on clean silence on the skipped B string. The angular interval leaps should feel deliberate and angular, not rushed.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "metal-arpeggio-skip",
+        "name": "Metal: String-Skip Power Arpeggio",
+        "description": "Minor arpeggio ascending across skipped strings (prog metal style).\n\n```\ne|--------5-|\nB|------5---|\nG|----5-----|\nD|-7--------|\n```",
+        "tips": "Let each note ring slightly as you move through the arpeggio — the skip creates an expansive, atmospheric quality common in progressive and power metal. Keep the pick angle consistent across all string transitions.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "blues-octave-shapes",
+        "name": "Blues: Sliding Octave Shapes",
+        "description": "Classic octave pairs sliding up the neck — Wes Montgomery / SRV style.\n\n```\ne|------------|\nB|-3--5--7--8-|\nG|------------|\nD|------------|\nA|-5--7--9-10-|\nE|------------|\n```",
+        "tips": "Mute all strings between A and B with your fretting hand — the shapes should ring as clean, warm octave pairs. Keep the wrist loose and let the shapes slide smoothly. This octave technique defines the warm, round sound of jazz and blues lead playing.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "rock-register-skip",
+        "name": "Rock: Wide Register Skip",
+        "description": "Jump between low and high register via string skip — classic rock lead style.\n\n```\ne|-5-7---------12-14-|\nG|-------5-7-9-------|\n```",
+        "tips": "Visualize the target string before your pick moves. Wide string skips require a larger arc — let your wrist guide the movement naturally. This kind of wide-register skip is a staple of classic and hard rock lead lines.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 65,
         "bpmIncrement": 5
       }
     ]
@@ -136,6 +216,46 @@
         "reps": 3,
         "startBPM": 80,
         "bpmIncrement": 5
+      },
+      {
+        "id": "jazz-chromatic-enclosure",
+        "name": "Jazz: Chromatic Enclosure",
+        "description": "Approach each target note from a half-step above and below — bebop phrasing.\n\n```\ne|-6-4-5-9-7-8-13-11-12-|\n```",
+        "tips": "Each 3-note group is: one fret above the target, one fret below, then the target. This is a fundamental bebop device. Practice slowly until the chromatic tones resolve naturally — the target note should feel 'arrived at', not rushed through.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 65,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "metal-downpicking-drill",
+        "name": "Metal: Downpicking Endurance",
+        "description": "Strict downpicking only — no alternate picking allowed.\n\n```\ne|-7-7-7-7-7-7-7-7-|\n```",
+        "tips": "Downpicking is the defining technique of Metallica and Black Sabbath rhythm tones. Keep your wrist loose despite the fatigue — if your forearm tightens, slow down. The heavier, more controlled tone from pure downstrokes is the reward for the discipline.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 100,
+        "bpmIncrement": 10
+      },
+      {
+        "id": "blues-turnaround-chromatic",
+        "name": "Blues: Chromatic Turnaround Line",
+        "description": "Chromatic descent — the foundational sound of blues turnarounds.\n\n```\ne|-8-7-6-5-4-|\n```",
+        "tips": "This chromatic descending line from C to Ab is the DNA of blues turnarounds and jazz approach tones. Play it with a slight swing feel — dotted-note subdivision rather than even 16ths. Listen to BB King and Clapton for reference.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "classical-alberti-pattern",
+        "name": "Classical: Alberti Bass Pattern",
+        "description": "Low-middle-high-middle broken chord texture — Beethoven / Mozart style.\n\n```\ne|-----8-----|\nB|---5---5---|\nG|-5---------|\n```",
+        "tips": "In Alberti bass, the middle voice (B string) should be slightly softer than the bass and melody. This builds right-hand independence and precise string targeting. Maintain strict alternate picking and let each voice have its own character.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 5
       }
     ]
   },
@@ -182,6 +302,46 @@
         "duration": 35,
         "reps": 3,
         "startBPM": 45,
+        "bpmIncrement": 0
+      },
+      {
+        "id": "jazz-diagonal-stretch",
+        "name": "Jazz: Wide Diagonal Voicing Reach",
+        "description": "Diagonal stretch reaching for wide chord voicing positions — jazz drop-voicing style.\n\n```\ne|------9-|\nB|----8---|\nG|--7-----|\nD|-5------|\n```",
+        "tips": "Stop immediately if you feel pain. This diagonal shape represents the kind of wide-interval reaches required by jazz drop-2 and drop-3 chord voicings. Keep the thumb low and relaxed behind the neck. Move one finger at a time.",
+        "duration": 35,
+        "reps": 3,
+        "startBPM": 40,
+        "bpmIncrement": 0
+      },
+      {
+        "id": "metal-power-chord-reach",
+        "name": "Metal: Power Chord Reach Shift",
+        "description": "Stretch between power chord positions — rhythm metal accuracy.\n\n```\nD|--5---9-|\nA|--3---7-|\n```",
+        "tips": "Stop if you feel pain. Power chord shapes require the same stretch width regardless of tempo — this exercise trains the reach across positions. Keep the unused strings muted. Move precisely, not quickly.",
+        "duration": 35,
+        "reps": 3,
+        "startBPM": 45,
+        "bpmIncrement": 0
+      },
+      {
+        "id": "blues-expressive-stretch",
+        "name": "Blues: Pre-Bend Stretch Preparation",
+        "description": "Wide finger spread to condition for blues string bending — BB King / SRV style.\n\n```\ne|-5---9-|\nB|-5---8-|\n```",
+        "tips": "Stop if you feel any sharp pain. This stretch conditions the hand for the wide finger spans needed when bending blues strings. Keep the wrist low and the knuckles arched. Approach this one slowly.",
+        "duration": 35,
+        "reps": 3,
+        "startBPM": 45,
+        "bpmIncrement": 0
+      },
+      {
+        "id": "classical-independence-stretch",
+        "name": "Classical: Held Bass Independence Stretch",
+        "description": "Hold bass note while fingers move on upper strings — Segovia / Tárrega style.\n\n```\ne|------7-8-10-|\nB|------8------|\nG|------7------|\nD|-10----------|\n```",
+        "tips": "Stop if you feel pain. Hold D string fret 10 firmly throughout while the other fingers move. This is a demanding classical independence exercise — the bass note must not waver. Move slowly and deliberately.",
+        "duration": 35,
+        "reps": 3,
+        "startBPM": 40,
         "bpmIncrement": 0
       }
     ]
@@ -230,6 +390,46 @@
         "reps": 3,
         "startBPM": 65,
         "bpmIncrement": 5
+      },
+      {
+        "id": "jazz-enclosure-legato",
+        "name": "Jazz: Bebop Enclosure Legato",
+        "description": "Approach each target note from above and below with hammer-ons and pull-offs — bebop technique.\n\n```\ne|-6p4h5-9p7h8-13p11h12-|\n```",
+        "tips": "Each 3-note group encircles the target: one fret above (pull-off), one fret below (hammer-on), target. This is one of the most important bebop phrasing devices. The legato touch makes the chromatic approach notes feel smooth and inevitable.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "metal-tapping-legato",
+        "name": "Metal: Tapped Hammer Pull-Off",
+        "description": "Right-hand tap into legato pull-off — Van Halen / Petrucci style.\n\n```\ne|-12t-5h7p5-|\n    T  h  p\n```",
+        "tips": "Tap fret 12 firmly with your pick-hand index or middle finger, then pull off to reveal fret 5 (held by left index), hammer on to fret 7, pull off back to 5. Keep the tapped note aggressive — it should sound as loud as the legato notes.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "blues-bend-legato",
+        "name": "Blues: Bend-Release Legato",
+        "description": "Full-step bend resolving into a legato descending line — SRV / Bonamassa style.\n\n```\ne|-8b10-8-7p5-|\n```",
+        "tips": "Bend fret 8 up a full step to the sound of fret 10, then release and continue descending with pull-offs. The bend must be in tune before you release. This is the core phrasing motion of blues lead guitar.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "classical-slur-etude",
+        "name": "Classical: Ascending-Descending Slur Étude",
+        "description": "Hammer-ons ascending, pull-offs descending — Carcassi / Tárrega style.\n\n```\ne|-5h7h8h10p8p7p5-|\n```",
+        "tips": "Every slurred note must ring with the same volume as the picked notes. In classical technique, this is called tonal equality in legato. Keep the hand position stable and avoid collapsing the knuckles under the effort.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 5
       }
     ]
   },
@@ -277,6 +477,46 @@
         "reps": 3,
         "startBPM": 65,
         "bpmIncrement": 5
+      },
+      {
+        "id": "jazz-guide-tone-targeting",
+        "name": "Jazz: Guide Tone Voice-Leading",
+        "description": "Target the 3rd and 7th of each chord change — the guide tones of a ii-V-I in C.\n\n```\ne|-8-7---7-0-|\n```",
+        "tips": "Land precisely on each guide tone: C (7th of Dm7), B (3rd of G7), E (3rd of Cmaj7). The accuracy of these landings is what makes jazz lines sound harmonically connected. Hear the chord changing under you as you move.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "metal-position-burst",
+        "name": "Metal: Multi-Position Speed Accuracy",
+        "description": "Fast scalar run across three positions — Marty Friedman / Petrucci style.\n\n```\ne|-5-7-9--12-14-16-|\n```",
+        "tips": "Each position shift must be clean and decisive — no sliding allowed. The notes should sound even in volume despite the position changes. Build speed only after every shift lands cleanly at a slow tempo.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 70,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "blues-vocal-phrase",
+        "name": "Blues: Vocal Phrasing Accuracy",
+        "description": "Call-and-response melodic phrasing — SRV / Buddy Guy style.\n\n```\ne|-10--8-7-5--|\nB|-----------8|\n```",
+        "tips": "The descending line on e string is the 'call'. The landing on B string fret 8 is the 'response'. Land on the response note cleanly and let it breathe. Blues phrasing is about space as much as notes.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "classical-position-etude",
+        "name": "Classical: Ascending Position Étude",
+        "description": "Sequential position shifts ascending through three hand positions — Segovia scale style.\n\n```\ne|-5-7-8--8-10-12--12-13-15-|\n```",
+        "tips": "Each position group (5-7-8, 8-10-12, 12-13-15) must sound even before moving to the next. The shift between groups is the moment of risk — prepare it by visualizing the new position while still in the old one.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 5
       }
     ]
   },
@@ -320,6 +560,46 @@
         "name": "Rhythmic Delay Transitions",
         "description": "Delayed changes.\n\n```\ne|--5----(wait)----7--|\n```",
         "tips": "Stay relaxed even as the change is delayed. Keep the rhythm steady and controlled. This drill builds confidence during imperfect transitions.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 60,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "jazz-voice-leading",
+        "name": "Jazz: ii-V-I Voice Leading",
+        "description": "Smooth guide-tone voice leading through a jazz ii-V-I chord progression.\n\n```\ne|--5---3---5--|\nB|--6---5---5--|\nG|--4---4---4--|\n```",
+        "tips": "Focus on the smoothness of each voice moving (or not moving) between chords. One voice moves a half-step while others hold — this is the principle behind all great jazz voice leading. Keep the hand relaxed and transitions seamless.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 55,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "metal-power-chord-switching",
+        "name": "Metal: Power Chord Riff Switching",
+        "description": "Fast power chord transitions between three positions — Metallica / Sabbath style.\n\n```\nD|--5-5-5--7-7-7--3-3-3-|\nA|--3-3-3--5-5-5--1-1-1-|\n```",
+        "tips": "Each chord position must lock in immediately — no hesitation on the switch. Keep the right hand constant: the rhythm does not pause for the left hand. This is the core discipline of rhythm metal playing.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 80,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "blues-dominant-moves",
+        "name": "Blues: Dominant Chord Movement",
+        "description": "Chromatic dominant chord slide between positions — classic Chicago blues style.\n\n```\ne|--5-5-5--6-6-6--5-5-5-|\nB|--5-5-5--6-6-6--5-5-5-|\nG|--5-5-5--6-6-6--5-5-5-|\n```",
+        "tips": "This chromatic one-fret slide between chord positions is a core blues comping device — heard in Robert Johnson, Muddy Waters, and beyond. Keep the transitions locked in time. The one-fret move should feel inevitable, not rushed.",
+        "duration": 45,
+        "reps": 3,
+        "startBPM": 65,
+        "bpmIncrement": 5
+      },
+      {
+        "id": "rock-sus-resolution",
+        "name": "Rock: Sus2 to Major Resolution",
+        "description": "Suspended chord resolving to major — Hendrix / classic rock tension-and-release.\n\n```\ne|--5---5--|\nB|--5---7--|\nG|--7---7--|\n```",
+        "tips": "The suspended chord (Dsus2) creates tension — the resolution to D major is the release. Let the suspended chord breathe for a full beat before resolving. This tension-release motion is the emotional core of rock harmony.",
         "duration": 45,
         "reps": 3,
         "startBPM": 60,
